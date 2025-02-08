@@ -14,11 +14,11 @@ This repository contains the **BitPay.ir** extension for **Paymenter**, a simple
 
 1. Clone this repository to your server:
     ```bash
-    git clone https://github.com/your-username/bitpay-ir-extension.git
+    git clone https://github.com/your-username/BitPayIr.git
     ```
 2. Navigate to the directory:
     ```bash
-    cd bitpay-ir-extension
+    cd BitPayIr
     ```
 3. Follow the configuration instructions in the `config.md` file to set up the extension with your **Paymenter** instance.
 
