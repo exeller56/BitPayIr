@@ -1,5 +1,8 @@
 # BitPay.ir Extension for Paymenter
 
+[![DISCORD SERVER](https://img.shields.io/discord/1151236517025546272?style=for-the-badge&logo=Discord&label=Discord
+)](https://discord.gg/wb8aTkxPa3)
+
 This repository contains the **BitPay.ir** extension for **Paymenter**, a simple and secure way to integrate **BitPay.ir**, a local Iranian payment gateway, into your Paymenter system. With this extension, you can easily accept payments in Iranian Rial from your customers.
 
 ## Features
